@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.para{
+    margin: 1rem 0;
+}
+
+#p1{  border-style: solid; }
+#p2{  border-style:dashed; }
+#p3{  border-style:dotted; }
+#p4{  border-style:double; }
+#p5{  border: 15px rgb(5, 209, 138) groove; }
+#p6{  border-style:hidden; }
+#p7{  border: 15px rgb(44, 13, 182) ridge; }
+#p8{ border: 10px rgb(10, 214, 136) inset; }
+#p9{  border: 10px rgb(30, 201, 7) outset; }
+
+#p10{  border: thick solid red; }
+#p11 {border-style: solid; border-top-width: thick;}
+#p12 {border-style: solid; border-right-width: thick;}
+#p13 {border-style: solid; border-bottom-width: thick;}
+#p14 {border-style: solid; border-left-width: thick;}
+
+#p15 {border: 5px solid red ; border-radius: 10px;}
+#p16 {border: 5px solid red ; border-radius: 5px  15px;}
+#p17 {border: 5px solid red ; border-radius: 5px 10px 15px 20px;}

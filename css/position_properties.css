@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.para{
+    width: 5rem;
+    height: 5rem;
+    background-color: rebeccapurple;
+    margin: 1rem;
+    color: white;
+    text-align: center;
+}
+
+#box1{ position: relative; left: 10rem; }
+#box2{ position: relative; left: 10rem; top: 2rem; }
+#box3{ position: absolute; bottom: 10rem; right: 0; }
+#box4{ float:right;}
+#box5{ position: fixed;}
+#box6{ clear: right;}
+#box7{ clear:none;}
+#box8{ position: sticky;}
+#box9{ position:static;}

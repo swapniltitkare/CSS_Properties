@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    width: 150px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid red;
+    margin: 1rem;
+}
+
+.div1:hover{
+    transform:translate(100px,30px)
+}
+
+.div2:hover{
+    transform: rotate(20deg);
+}
+
+.div3:hover{
+    transform: rotate(-40deg);
+}
+
+.div4:hover{
+    transform: scale(1.5,1.5);
+}
+
+.div5:hover{
+    transform: scaleX(2)
+}
+
+.div6:hover{
+    transform: skewX(30deg)
+}
+
+.div7:hover{
+    transform: skewY(30deg)
+}
+.div8:hover{
+    transform: matrix(scaleX(), skewY(), skewX(), scaleY(), translateX(), translateY());
+    transform: matrix(1.5,-0.5,0.5,1,10,10);
+}

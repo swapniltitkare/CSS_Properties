@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.div{
+    margin: 1rem 0;
+}
+
+#div1{
+    background-image: url("../images/secondimg.jpg");
+    width: 15rem;
+    height: 15rem;
+}
+
+#div2{
+    background-image: url("../images/secondimg.jpg");
+    width: 20rem;
+    height: 20rem;
+}
+
+#div3{
+    background-image: url("../images/secondimg.jpg");
+    background-repeat: no-repeat;
+    width: 20rem;
+    height: 20rem;
+}
+
+#div4{
+    background-image: url("../images/secondimg.jpg");
+    background-repeat:repeat-x;
+    width: 20rem;
+    height: 20rem;
+}
+
+#div5{
+    background-image: url("../images/secondimg.jpg");
+    background-repeat:repeat-y;
+    width: 20rem;
+    height: 20rem;
+}
+
+#div6{
+    width: 20rem;
+    height: 20rem;
+    background-image: url("../images/secondimg.jpg");
+    background-repeat:no-repeat;
+    background-attachment: scroll;
+}
+
+#div7{
+    width: 20rem;
+    height: 20rem;
+    background-image: url("../images/secondimg.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+#div8{
+    width: 20rem;
+    height: 20rem;
+    background-image: url("../images/secondimg.jpg");
+    background-repeat: round;
+}
+
+#div9{
+    width: 90rem;
+    height: 80rem;
+    background-image: url("../images/secondimg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#div10{
+    width: 90rem;
+    height: 80rem;
+    background-image: url("../images/secondimg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#div11{
+    width: 90rem;
+    height: 80rem;
+    background-image: url("../images/secondimg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left;
+}
+
+#div12{
+    width: 90rem;
+    height: 80rem;
+    background-image: url("../images/secondimg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+}

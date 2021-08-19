@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.para{
+    width: 5rem;
+    height: 5rem;
+    background-color: red;
+    margin: 2rem;
+}
+
+#p1{
+    box-sizing: border-box;
+}
+
+#p2{
+    position: relative;
+    left: 5rem;
+opacity:0.5;
+}
+
+#p3{
+    box-shadow: 10px 10px;
+}
+
+#p4{
+    box-shadow: 10px 10px 5px;
+}
+
+#p5{
+    box-shadow: 10px 10px 5px 10px;
+}
+
+#p6{
+    box-shadow: 10px 10px 5px 2px blue;
+}
+
+#p7{
+    box-shadow: -10px -10px 5px 2px blue;
+}
+
+#p8{
+    box-shadow: 10px -10px 5px 2px blue;
+}
+
+#p9{
+    box-shadow: -10px 10px 5px 2px blue;
+}
+
+#p10{
+    box-shadow: 10px 10px 5px 2px blue inset;
+}
+
+#p11{
+    box-shadow: 10px 10px 5px 2px rgb(220, 146, 11), -10px -10px 5px 2px rgb(12, 201, 128);
+}

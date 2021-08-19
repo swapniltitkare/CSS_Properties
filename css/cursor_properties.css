@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+h1{
+    color: white;
+}
+
+.para{
+    margin: 1.5rem;
+    color: rgb(240, 44, 9);
+}
+
+#ex1{  cursor: pointer;}
+#ex2{  cursor:alias;}
+#ex3{  cursor:crosshair;}
+#ex4{  cursor:help;}
+#ex5{  cursor:grabbing;}
+#ex6{  cursor:move;}
+#ex7{  cursor:n-resize;}
+#ex8{  cursor:w-resize;}
+#ex9{  cursor:wait;}
+#ex10{  cursor:nesw-resize;}
+#ex11{  cursor:progress;}
+#ex12{  cursor:not-allowed;}
+#ex13{  cursor:row-resize;}
+#ex14{  cursor:text;}
+#ex15{  cursor:zoom-in;}
+#ex16{  cursor:zoom-out;}

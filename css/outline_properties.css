@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.para{
+margin: 2rem;
+}
+
+#exp1{ outline-style: solid; }
+#exp2{ outline-style:dashed; }
+#exp3{ outline-style:dotted; }
+#exp4{ outline-style:double; }
+#exp5{ outline-style:hidden; }
+#exp6{ outline-style:groove; outline-color: red; outline-width: 10px; }
+#exp7{ outline-style:ridge; outline-color: rgb(48, 231, 94); outline-width: 10px;}
+#exp8{ outline-style:inset; outline-color: rgb(143, 12, 196); outline-width: 10px;}
+#exp9{ outline-style:outset; outline-color: rgb(26, 172, 26); outline-width: 10px;}
+#exp10{ outline-style:solid; outline-width: thick; }
+#exp11{ outline-style:solid; outline-width: medium; }
+#exp12{ outline-style:solid; outline-width: thin; }
