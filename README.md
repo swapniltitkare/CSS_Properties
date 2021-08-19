@@ -4,7 +4,7 @@ In this project I have implement different CSS Properties.
 
 Background Properties
 * In this page I have implement background css properties.
-![background_properties](https://user-images.githubusercontent.com/88594369/130026669-2bcca7ed-5492-4a29-a37f-485b524bebe3.PNG)  
+![background_properties](https://user-images.githubusercontent.com/88594369/130026669-2bcca7ed-5492-4a29-a37f-485b524bebe3.PNG)
 
 <br>
 
@@ -23,20 +23,20 @@ Box Properties
 Cursor Properties
 * In this page I have implement cursor css properties.
 * Note: I have used hover effect for better understanding.
-![cursor_properties](https://user-images.githubusercontent.com/88594369/130027421-63200420-67b6-493c-ba75-5a57439f42f2.PNG)   
+![cursor_properties](https://user-images.githubusercontent.com/88594369/130027421-63200420-67b6-493c-ba75-5a57439f42f2.PNG)
 
 <br>
 
 Outline Properties
 * In this page I have implement outline css properties.
-![outline_properties](https://user-images.githubusercontent.com/88594369/130027480-414aa712-4f5b-420d-83fe-f082f995fc04.PNG)   
+![outline_properties](https://user-images.githubusercontent.com/88594369/130027480-414aa712-4f5b-420d-83fe-f082f995fc04.PNG)
 
 <br>
 
 Position Properties
 * In this page I have implement position css properties.
 * Note: I have used hover effect for better understanding.
-![position_properties](https://user-images.githubusercontent.com/88594369/130027559-cabff504-e265-4524-b969-44852018b3a3.PNG)   
+![position_properties](https://user-images.githubusercontent.com/88594369/130027559-cabff504-e265-4524-b969-44852018b3a3.PNG)
 
 <br>
 
